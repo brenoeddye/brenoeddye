@@ -5,7 +5,7 @@
 • React
 
 ## 💻 Working on
-• [Gextor](https://github.com/brenoeddye/Gextor): stock organizer and counter website.
+• [Gextor](https://github.com/brenoeddye/Gextor): stock organizer and counter website.<br>
 • [LegacyRPG](): real life simulator game mode made for Grand Theft Auto V.
 
 ## 🌐 Social
