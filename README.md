@@ -1,7 +1,7 @@
 <h1 align="center">Breno Pereira 👤⌨️</h1>
 
 ## 📚 Learning
-• Flutter
+• Flutter<br>
 • React
 
 ## 💻 Working on
