@@ -9,8 +9,9 @@
 • [LegacyRPG](): real life simulator game mode made for Grand Theft Auto V.
 
 ## 🌐 Social
-![facebook](https://img.shields.io/badge/f-facebook-blue) ![twitter](https://img.shields.io/badge/t-twitter-lightblue) ![instagram](https://img.shields.io/badge/i-instagram-pink)
-
+[![facebook](https://img.shields.io/badge/f-facebook-blue)](https://www.facebook.com/brenoeddye)
+[![twitter](https://img.shields.io/badge/t-twitter-lightblue)](https://www.twitter.com/brenoeddye)
+[![instagram](https://img.shields.io/badge/i-instagram-pink)](https://www.instagram.com/brenoeddye)
 <!--
 **brenoeddye/brenoeddye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
