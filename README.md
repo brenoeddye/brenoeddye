@@ -2,8 +2,8 @@
 
 ## Skills
 • ![html](https://img.shields.io/badge/HTML-UX/UI pages-red)<br>
-• ![css](https://img.shields.io/badge/CSS-Sass and Bootstrap-success)<br>
-• ![js](https://img.shields.io/badge/JS-Vue, Node and JQuery-yellow)
+• ![css](https://img.shields.io/badge/CSS-Sass-success) ![css](https://img.shields.io/badge/CSS-bootstrap-purple)<br>
+• ![js](https://img.shields.io/badge/JS-Vue-green) ![js](https://img.shields.io/badge/JS-Node-yellow) ![js](https://img.shields.io/badge/JS-JQuery-brown)
 
 ## 📚 Learning
 • ![flutter](https://img.shields.io/badge/Mobile-flutter-blue)<br>
