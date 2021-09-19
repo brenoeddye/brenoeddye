@@ -1,7 +1,7 @@
 <h1 align="center">Breno Pereira 👤⌨️</h1>
 
 ## Skills
-• ![html](https://img.shields.io/badge/HTML-UX/UI pages-red)<br>
+• ![html](https://img.shields.io/badge/HTML-UX/UI-red)<br>
 • ![css](https://img.shields.io/badge/CSS-Sass-success) ![css](https://img.shields.io/badge/CSS-bootstrap-purple)<br>
 • ![js](https://img.shields.io/badge/JS-Vue-green) ![js](https://img.shields.io/badge/JS-Node-yellow) ![js](https://img.shields.io/badge/JS-JQuery-brown)
 
