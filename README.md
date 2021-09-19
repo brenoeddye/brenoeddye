@@ -6,7 +6,7 @@
 
 ## 💻 Working on
 
-## 🌐 Websites
+## 🖱️ Websites
 • [HBOMax](https://github.com/brenoeddye/HBOMax): Recreation of the HBOMax website for studies.<br>
 • [PetShop](https://github.com/brenoeddye/petshop-website): Practical test for Seri.e Design.
 
