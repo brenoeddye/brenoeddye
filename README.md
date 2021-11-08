@@ -14,7 +14,7 @@
 
 ## 🖱️ Projects
 • [HBOMax](https://github.com/brenoeddye/HBOMax): Recreation of the HBOMax website for studies. <br>
-• [PetShop](https://github.com/brenoeddye/petshop-website): Practical test for Seri.e Design.
+• [PetShop](https://github.com/brenoeddye/petshop-website): Practical test for Seri.e Design. <br>
 • [N1-Rush](https://github.com/brenoeddye/N1-Seletiva): Practical test for Agencia N1.
 
 ## 🌐 Social
