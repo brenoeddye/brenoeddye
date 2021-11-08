@@ -19,5 +19,5 @@
 
 ## 🌐 Social
 [![facebook](https://img.shields.io/badge/f-facebook-blue)](https://www.facebook.com/brenoeddye)
-[![instagram](https://img.shields.io/badge/i-instagram-pink)](https://www.instagram.com/brenoeddye)
-[My Portfolio](https://brenopereira.com)
+[![instagram](https://img.shields.io/badge/i-instagram-pink)](https://www.instagram.com/brenoeddye) <br>
+» [My Portfolio](https://brenopereira.com)
