@@ -10,11 +10,14 @@
 • ![js](https://img.shields.io/badge/JS-React-yellow)
 
 ## 💻 Working on
+• [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue.
 
-## 🖱️ Websites
+## 🖱️ Projects
 • [HBOMax](https://github.com/brenoeddye/HBOMax): Recreation of the HBOMax website for studies. <br>
 • [PetShop](https://github.com/brenoeddye/petshop-website): Practical test for Seri.e Design.
+• [N1-Rush](https://github.com/brenoeddye/N1-Seletiva): Practical test for Agencia N1.
 
 ## 🌐 Social
 [![facebook](https://img.shields.io/badge/f-facebook-blue)](https://www.facebook.com/brenoeddye)
 [![instagram](https://img.shields.io/badge/i-instagram-pink)](https://www.instagram.com/brenoeddye)
+[My Portfolio](https://brenopereira.com)
