@@ -17,6 +17,7 @@
 
 ## 💻 Working on
 • [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue.
+• [Oxygen RP](https://github.com/brenoeddye/OxygenRP): Online gta gamemode for android developed in Pawn (like C) Open-Source version
 
 ## 🖱️ Projects
 • [HBOMax](https://github.com/brenoeddye/HBOMax): Recreation of the HBOMax website for studies. <br>
