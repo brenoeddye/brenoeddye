@@ -1,6 +1,6 @@
 <h1 align="center">Breno Pereira 👤⌨️</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brenoeddye=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoeddye)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤹🏻 Skills
 • ![html](https://img.shields.io/badge/HTML-UX/UI-red)<br>
