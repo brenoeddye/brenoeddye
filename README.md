@@ -16,7 +16,7 @@
 • ![js](https://img.shields.io/badge/JS-React-yellow)
 
 ## 💻 Working on
-• [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue.
+• [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue. <br>
 • [Oxygen RP](https://github.com/brenoeddye/OxygenRP): Online gta gamemode for android developed in Pawn (like C) Open-Source version
 
 ## 🖱️ Projects
