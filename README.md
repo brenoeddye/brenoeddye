@@ -1,7 +1,7 @@
 <h1 align="center">Breno Pereira 👤⌨️</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoeddye&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoeddye&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoeddye&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤹🏻 Skills
 • ![html](https://img.shields.io/badge/HTML-UX/UI-red)<br>
