@@ -17,7 +17,7 @@
 
 ## 💻 Working on
 • [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue. <br>
-• [Legacy RP](https://github.com/brenoeddye): Online gta gamemode for android developed in Pawn (like C) Open-Source version (Private)
+• [Legacy RP](https://github.com/brenoeddye): Online GTA V gamemode (Private)
 
 ## 🖱️ Projects
 • [HBOMax](https://github.com/brenoeddye/HBOMax): Recreation of the HBOMax website for studies. <br>
