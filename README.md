@@ -12,7 +12,7 @@
 • ![js](https://img.shields.io/badge/JS-Vue-50BB7A?style=for-the-badge&logo=vue.js) ![js](https://img.shields.io/badge/JS-React-61DAFB?style=for-the-badge&logo=react) ![js](https://img.shields.io/badge/JS-Vite-646CFF?style=for-the-badge&logo=vite) ![js](https://img.shields.io/badge/JS-Node-84ba64?style=for-the-badge&logo=node.js) ![js](https://img.shields.io/badge/JS-jQuery-0769AD?style=for-the-badge&logo=jquery)
 
 ## 📚 Learning
-• ![ruby](https://img.shields.io/badge/Back-Ruby-CC342D?style=for-the-badge)<br>
+• ![ruby](https://img.shields.io/badge/Backend-Ruby-CC342D?style=for-the-badge&logo=ruby)<br>
 
 ## 💻 Working on
 • [Quanto em Reais?](https://github.com/brenoeddye/quanto-em-reais): Website to convert the Brazilian real into any existing currency using Vue.
