@@ -8,7 +8,7 @@
 
 ## 🤹🏻 Skills
 • ![html](https://img.shields.io/badge/HTML-UX/UI-red?style=for-the-badge&logo=html5)<br>
-• ![css](https://img.shields.io/badge/CSS-Sass-CC6699?style=for-the-badge&logo=sass) ![css](https://img.shields.io/badge/CSS-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap) ![css](https://img.shields.io/badge/CSS-Styled-component-DB7093?style=for-the-badge&logo=styled-components) ![css](https://img.shields.io/badge/CSS-Less-1d365d?style=for-the-badge&logo=less)<br>
+• ![css](https://img.shields.io/badge/CSS-Sass-CC6699?style=for-the-badge&logo=sass) ![css](https://img.shields.io/badge/CSS-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap) ![css](https://img.shields.io/badge/CSS-Styled%20Component-DB7093?style=for-the-badge&logo=styled-components) ![css](https://img.shields.io/badge/CSS-Less-1d365d?style=for-the-badge&logo=less)<br>
 • ![js](https://img.shields.io/badge/JS-Vue-50BB7A?style=for-the-badge&logo=vue.js) ![js](https://img.shields.io/badge/JS-React-61DAFB?style=for-the-badge&logo=react) ![js](https://img.shields.io/badge/JS-Vite-646CFF?style=for-the-badge&logo=vite) ![js](https://img.shields.io/badge/JS-Node-84ba64?style=for-the-badge&logo=node.js) ![js](https://img.shields.io/badge/JS-jQuery-0769AD?style=for-the-badge&logo=jquery)
 
 ## 📚 Learning
