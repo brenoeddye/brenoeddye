@@ -1,16 +1,11 @@
 <h1 align="center">Breno Pereira 👤⌨️</h1>
 
-<div align="center" style="display:flex">
-  <div> 
+<div align="center" style="display:flex"> 
   <a href = "mailto:brenopereira856@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Breno-EA4335?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenoeddye" target="_blank"><img src="https://img.shields.io/badge/linkedIn-Breno%20Pereira-0A66C2?style=for-the-badge&logo=linkedin" target="_blank"></a> 
-   <br>
    <a href="https://instagram.com/brenoeddye" target="_blank"><img src="https://img.shields.io/badge/Insta-BrenoEddye-E4405F?style=for-the-badge&logo=instagram" target="_blank"></a>
-  <a href="https://brenopereira.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Breno%20Pereira-4FC08D?style=for-the-badge&logo=vue.js" target="_blank"></a> 
-</div>
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoeddye&layout=compact&langs_count=7&theme=nord"/>
-  </div>
+  <a href="https://brenopereira.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Breno%20Pereira-4FC08D?style=for-the-badge&logo=vue.js" target="_blank"></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoeddye&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ## 🤹🏻 Skills
