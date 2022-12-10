@@ -1,6 +1,6 @@
 ## Hi, I'm Breno Pereira 👤⌨️
 
-A front-end developer who loves programming and every day looks for something new to explore in the world of codes, I'm currently studying to become a full stack, (pause for a sip of coffee ☕) but I'm also looking at the mobile world with flutter. Also in my free time I like to play, I'm a football fanatic and I play a lot of fifa and rocket league.
+A front-end developer who loves programming and every day looks for something new to explore in the world of codes, I'm currently studying to become a full stack, (pause for a sip of coffee ☕) but I'm also looking at the mobile world with flutter. Also in my free time I like to play videogames, I'm a football fanatic and I play a lot of fifa and rocket league.
 
 <div style="display:flex"> 
   <a href = "mailto:brenopereira856@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Breno-EA4335?style=for-the-badge&logo=gmail" target="_blank"></a>
